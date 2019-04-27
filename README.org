@@ -1,0 +1,51 @@
+* The Programmer's Notebook
+** tl;dr: write stuff down in a searchable format
+I like org-mode, but that's me.
+** My story
+*** About me
+- Huge procrastinator
+- To do lists are a great way to procrastinate  
+- I write things down and then ignore them
+- I have been using paper notebooks for a long time
+- Also Evernote (more on that later)
+- About 7 years ago, I started tracking what I do every day with [[https://idonethis.com/][I Done This]]. This is valuable for remembering what I've accomplished.
+- It's almost too obvious but a few years ago my co-worker impressed me with his scratch file, and I started doing the same. 
+- At my next job, I switched to date-stamped entries and used Markdown.
+- Now, I've switched everything to Emacs org-mode
+** What is a programmer's notebook?
+*** Slow to capture => missing things
+*** Must be searchable
+*** Ideally, an open format (plain text)
+*** Cross-platform and mobile
+Ideas come at random times. You should be able to capture a thought quickly and easily wherever you are.
+** Note taking tools
+*** [[https://evernote.com/][Evernote]]
+Cross-platform note taking app and former Unicorn startup. I used to use [[https://itunes.apple.com/us/app/fastever-2/id1039596715?mt=8][FastEver]] to capture notes quickly. Proprietary format, but there are exporters.
+*** [[http://notational.net/][Notational Velocity]] and [[https://brettterpstra.com/projects/nvalt/][forks]]
+Plain-text note taking with search as the primary user experience.
+*** [[https://simplenote.com/][Simplenote]]    
+Free (owned by Automattic) and cross platform on iOS, Andriod, macOS, Windows, Linux, and the web.
+*** [[http://happenapps.com/][Quiver]]
+Literally "The Programmer's Notebook". Custom format, but open. The coolest feature of Quiver is that you can write notes in Markdown, but mix in other content types, including source code and LaTeX.
+*** [[https://bear.app/][Bear]]
+Markdown-based note taking tool.
+*** org-mode 
+Emacs-based outlining, note taking, publishing, diary, spreadsheet, ...
+**** Learning Curve
+
+For Emacs:
+[[file:learning-curve.png]]
+For Org-mode:
+- Fractal
+**** [[https://beorgapp.com/][Beorg]] 
+iOS org-mode app
+**** [[http://www.orgzly.com/][Orgzly
+]] Android org-mode app
+**** [[https://workingcopyapp.com/][Working Copy]]
+iOS Git client and text editor. Has syntax highlighting for org-mode files.
+** My setup
+- work laptop
+- home laptop
+- iPhone
+
+I also have a GitHub backup that I sync periodically.

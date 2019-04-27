@@ -1,0 +1,91 @@
+* [2012-03-25 Sun]
+** Udacity CS 373: Homework                                                     :education:
+** Add Timeslots and Rooms to sessionizer                                       :Minnestar:
+* [2012-03-24 Sat]
+** Udacity CS 373: Watch lecture                                                :education:
+* [2012-03-23 Fri]
+** random fixes for deployment                                                  :DevShop:
+** start discussion view (iOS)                                                  :DevShop:
+* [2012-03-22 Thu]
+** MinneBar volunteer meeting                                                   :Minnestar:
+** Meet with Paul Cantrell about session scheduler                              :Minnestar:
+** process new Community Supporters                                             :Minnestar:
+** fix bugs, start on bar charts                                                :DevShop:
+* [2012-03-20 Tue]
+** Reply to many emails                                                         :Minnestar:
+* [2012-03-19 Mon]
+** Udacity CS 373: Homework                                                     :education:
+** Process Community Supporters                                                 :Minnestar:
+** Draft pre-party email                                                        :Minnestar:
+** more iOS work with showing discussions                                       :DevShop:
+* [2012-03-15 Thu]
+** Start on adding Discussions screen to app                                    :DevShop:
+** call to sync up about MinneBar                                               :Minnestar:
+* [2012-03-14 Wed]
+** iOS project walk through                                                     :DevShop:
+** fix bugs                                                                     :DevShop:
+* [2012-03-13 Tue]
+** export all presenter bios as CSV                                             :Minnestar:
+* [2012-03-12 Mon]
+** Opened general registration for MinneBar                                     :Minnestar:
+* [2012-03-11 Sun]
+** tell past presenters about session sign up                                   :Minnestar:
+** write email to open registration                                             :Minnestar:
+* [2012-03-09 Fri]
+** set time zone automatically                                                  :DevShop:
+* [2012-03-08 Thu]
+** track points                                                                 :DevShop:
+** add reference code                                                           :DevShop:
+* [2012-03-07 Wed]
+** point tracking model                                                         :DevShop:
+* [2012-03-06 Tue]
+** wiki ETL of old sessions and demos                                           :Minnestar:
+** integrate with Stripe                                                        :DevShop:
+* [2012-03-05 Mon]
+** work on Stripe integration                                                   :DevShop:
+* [2012-03-04 Sun]
+** email about MinneBar early registration                                      :Minnestar:
+** Update session tool for export                                               :Minnestar:
+** Fool around with wiki                                                        :Minnestar:
+* [2012-03-03 Sat]
+** Udacity CS 101: finish homework                                              :education:
+** Udacity CS 373: do homework                                                  :education:
+** Udacity: watch unit 2 lectures                                               :education:
+** Update session tool for MinneBar                                             :Minnestar:
+* [2012-03-02 Fri]
+** process Community Supporters                                                 :Minnestar:
+** email Community Supporters about 501(c)3 status                              :Minnestar:
+** more work on single page sign up                                             :DevShop:
+* [2012-03-01 Thu]
+** implement single page sign up flow                                           :DevShop:
+* [2012-02-29 Wed]
+** work on rejiggering Person associations                                      :DevShop:
+** Udacity homework                                                             :education:
+** Udacity CS 101: watched half of lecture 2                                    :education:
+* [2012-02-28 Tue]
+** volunteer kickoff meeting                                                    :Minnestar:
+** evaluated Donor Tools                                                        :Minnestar:
+** add driver step of signup flow                                               :DevShop:
+* [2012-02-27 Mon]
+** Attended RUM
+* [2012-02-26 Sun]
+** Compiled paperwork for taxes                                                 :finance:
+* [2012-02-24 Fri]
+** start on user/person model                                                   :DevShop:
+** Start on designing the report page                                           :GitCommitted:
+* [2012-02-23 Thu]
+** show recent trips on dashboard                                               :DevShop:
+** design user/driver model                                                     :DevShop:
+* [2012-02-22 Wed]
+** finish admin controller for map versions                                     :DevShop:
+** Udacity CS 373: Finish lecture 1                                             :education:
+** version the REST API with Accepts header                                     :DevShop:
+** do admin controller for managing users                                       :DevShop:
+* [2012-02-21 Tue]
+** Udacity CS 101: Finish lecture 1                                             :education:
+** Get app set up                                                               :DevShop:
+** implement admin controller for software versions                             :DevShop:
+* [2012-02-09 Thu]
+** compile attendance figures for annual report                                 :Minnestar:
+* [2012-02-02 Thu]
+** Executive board meeting                                                      :Minnestar:
