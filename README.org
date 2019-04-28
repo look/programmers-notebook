@@ -39,8 +39,8 @@ For Org-mode:
 - Fractal
 **** [[https://beorgapp.com/][Beorg]] 
 iOS org-mode app
-**** [[http://www.orgzly.com/][Orgzly
-]] Android org-mode app
+**** [[http://www.orgzly.com/][Orgzly]]
+Android org-mode app
 **** [[https://workingcopyapp.com/][Working Copy]]
 iOS Git client and text editor. Has syntax highlighting for org-mode files.
 ** My setup
