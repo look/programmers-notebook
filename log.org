@@ -1,3 +1,5 @@
+* [2019-04-27 Sat]
+** give talk at Minnebar :Minnebar:
 * [2012-03-25 Sun]
 ** Udacity CS 373: Homework                                                     :education:
 ** Add Timeslots and Rooms to sessionizer                                       :Minnestar:
